@@ -12,7 +12,7 @@ The method is evaluated on the two-person interaction subsets of NTU RGB+D and N
 
 ## Code Availability
 
-This repository is currently under preparation. The source code, configuration files, and usage instructions will be made publicly available upon acceptance of the paper.
+This repository is currently under preparation. The source code, configuration files, and usage instructions will be made publicly available upon publication.
 
 ## Planned Release
 
