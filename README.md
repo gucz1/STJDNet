@@ -26,7 +26,21 @@ After acceptance, this repository will include:
 
 ## Environment
 
-The implementation is based on Python, PyTorch, and CUDA. Detailed environment configuration will be provided with the code release.
+The implementation is based on:
+
+- Python 3.8
+- PyTorch 1.13.1
+- CUDA 11.7
+
+The required Python packages are listed in `requirements.txt`.
+
+To set up the environment, run:
+
+```bash
+conda create -n stjdnet python=3.8
+conda activate stjdnet
+pip install -r requirements.txt
+```
 
 ## Status
 
